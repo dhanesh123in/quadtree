@@ -1,4 +1,6 @@
 # Quadtrees iterating on pairs of neighbours
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdhanesh123in%2Fquadtree.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdhanesh123in%2Fquadtree?ref=badge_shield)
+
 
 Implementation of a smart version of quadtrees specialised in tracking distance
 between moving objects.
@@ -66,3 +68,7 @@ For a more basic introduction, it is recommended to start with the
 Python interface, its documentation, and the `tutorial.ipynb` file that
 you can also view 
 [here](http://nbviewer.ipython.org/github/xoolive/quadtree/blob/master/tutorial.ipynb).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdhanesh123in%2Fquadtree.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdhanesh123in%2Fquadtree?ref=badge_large)
